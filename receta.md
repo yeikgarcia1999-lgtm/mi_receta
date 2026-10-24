@@ -19,6 +19,7 @@ Tiempo de preparacion:
 
 * 30:min
 
-# Preparacion de para la preparacion
+# Preparacion para la preparacionh
 Pasos
+
 
