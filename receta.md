@@ -1,6 +1,6 @@
 # mi recta favorita
 
-Nombre del plato:
+Nombre del plato: costilla
 
 * arros
 * platano
@@ -13,3 +13,12 @@ Nombre del plato:
 * tomate
 * aliño
 * frutiño
+
+# tiempo de preparacion
+Tiempo de preparacion:
+
+* 30:min
+
+# Preparacion de para la preparacion
+Pasos
+
