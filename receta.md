@@ -15,11 +15,9 @@ Nombre del plato: costilla
 * frutiño
 
 # tiempo de preparacion
-Tiempo de preparacion:
 
-* 30:min
+* 30 minutos 
 
-# Preparacion para la preparacionh
-Pasos
+
 
 
