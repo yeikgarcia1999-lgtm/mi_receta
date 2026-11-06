@@ -18,6 +18,10 @@ Nombre del plato: costilla
 
 * 30 minutos 
 
+# Pasos para la preparacion
 
+* picar
+* lavar la carne
+* pitar
 
 
