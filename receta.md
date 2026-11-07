@@ -24,4 +24,4 @@ Nombre del plato: costilla
 * lavar la carne
 * pitar
 
-
+otro estado
