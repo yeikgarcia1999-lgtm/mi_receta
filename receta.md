@@ -2,10 +2,10 @@
 
 Nombre del plato: costilla
 
-* arros
+* arroz
 * platano
 * banano
-* yucua
+* yuca
 * costilla
 * pimenton
 * ajo
@@ -25,3 +25,5 @@ Nombre del plato: costilla
 * pitar
 
 otro estado
+
+# porciones: 4 personas.
